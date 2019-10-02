@@ -1,4 +1,4 @@
-# Amazon-Floatify
+# Amazon-Floatify:
 
 
 Great-India-Sale-InfoScrapper Cum Notifier
@@ -13,8 +13,11 @@ When a Desired Product Hits a lower price than expected price.Then we'll get a P
 ![Screenshot](notification.jpg)
 
 
+And This -
+
 
 ![Screenshot](case2.png)
+
 
 
 
